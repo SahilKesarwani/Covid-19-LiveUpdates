@@ -1,0 +1,25 @@
+#nav {
+	margin: 0 auto;
+}
+
+#heading {
+	color: rgb(43, 226, 156);
+}
+
+.table-responsive {
+	border: 1px solid black;
+	border-radius: 5px;
+}
+
+th {
+	color: #ffffff;
+	background: linear-gradient(#ca7632, #cabb32);
+	background: -webkit-linear-gradient(#ca7632, #cabb32);
+	background: -moz-linear-gradient(#ca7632, #cabb32);
+	background: -o-linear-gradient(#ca7632, #cabb32);
+	border: 1px solid black;
+}
+
+tr {
+	border: 1px solid black;
+}
